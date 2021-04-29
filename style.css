@@ -25,7 +25,7 @@ body::before {
     top: 0; bottom: 0; /* Вся высота */
     z-index: -1; /* Фон ниже текста */
     /* Параметры фона */
-    background: url("..//dist/images/Степ.jpg") center / cover no-repeat;
+    background: url("..//Playlist_Step/images/Step.jpg") center / cover no-repeat;
     filter: blur(10px); /* Размытие */
     width:100%;
     height:100vh;
